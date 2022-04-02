@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artofthinkingclearly
 - 👀 I’m interested in Coding and Finance
-- 💞️ I’m looking to collaborate on anything as I want to gain hands-on experience.
+- 💞️ I’m looking to collaborate on fin/tech projects as I want to gain hands-on experience.
 - 📫 How to reach me: iliaaz@my.yorku.ca
 
 <!---
